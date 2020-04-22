@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["IGwY8"]); }
+
+__d("IasUtsClientDebuggingFalcoEvent",["FalcoLoggerInternal"],(function(a,b,c,d,e,f){"use strict";a=b("FalcoLoggerInternal").create("ias_uts_client_debugging");e.exports=a}),null);

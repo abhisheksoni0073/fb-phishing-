@@ -1,0 +1,4 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["+r73u"]); }
+
+__d("GroupsUnifiedQueueTimeSpentLogger",["ScriptPath"],(function(a,b,c,d,e,f){"use strict";e.exports={updatePath:function(a){var c=b("ScriptPath").getPageInfo();c=c?c.extraData||{}:{};b("ScriptPath").set(a.path,null,c)}}}),null);
+__d("XDeviceClassRealtimeController",["XController"],(function(a,b,c,d,e,f){e.exports=b("XController").create("/web_perf/get_perf_level/",{})}),null);
